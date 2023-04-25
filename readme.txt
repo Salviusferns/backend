@@ -1,0 +1,1 @@
+to run the server install express cors and node index.js
